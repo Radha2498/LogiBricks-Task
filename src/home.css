@@ -1,0 +1,18 @@
+.company {
+  font-family: "times new roman";
+  position: absolute;
+  font-size: 33px;
+  margin-top: -12%;
+  margin-left: 29%;
+  font-weight: bolder;
+}
+.logo {
+  position: absolute;
+  margin-left: -57%;
+  margin-top: 33%;
+}
+.clickon {
+  margin-top: 46%;
+  position: absolute;
+  margin-left: -49%;
+}
